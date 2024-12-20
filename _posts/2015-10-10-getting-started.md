@@ -5,7 +5,6 @@ author: "Awayer"
 categories: 编程语言
 tags: [编程语言]
 image: reflact.png
-main_page_show: true
 summary: "TypeScript 是 JavaScript 的超集，它提供了静态类型检查和更丰富的语法特性。"
 ---
 

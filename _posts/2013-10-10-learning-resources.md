@@ -5,7 +5,6 @@ author: "Awayer"
 categories: 软件工程
 tags: [软件工程]
 image: reflact.png
-main_page_show: true
 summary: "项目管理是软件开发中不可或缺的一部分，它涉及到项目规划、资源分配、进度跟踪和风险管理等方面。"
 ---
 
