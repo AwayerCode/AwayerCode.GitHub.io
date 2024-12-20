@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Learning Resources"
-author: "Paul Le"
-categories: journal
-tags: [documentation,sample]
-image: spools.jpg
+title: "项目管理"
+author: "Awayer"
+categories: 软件工程
+tags: [软件工程]
+image: reflact.png
+main_page_show: true
+summary: "项目管理是软件开发中不可或缺的一部分，它涉及到项目规划、资源分配、进度跟踪和风险管理等方面。"
 ---
 
-The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
+项目管理是软件开发中不可或缺的一部分，它涉及到项目规划、资源分配、进度跟踪和风险管理等方面。
 
 ## [Free Code Camp](https://www.freecodecamp.org/)
 

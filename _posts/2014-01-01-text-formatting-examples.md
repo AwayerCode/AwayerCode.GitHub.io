@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Text Formatting Examples"
-author: "Paul Le"
-categories: journal
-tags: [documentation,sample]
-image: cards.jpg
+title: "C++"
+author: "Awayer"
+categories: 编程语言
+tags: [编程语言]
+image: reflact.png
+main_page_show: true
+summary: "C++ 是一种广泛使用的编程语言，它提供了强大的性能和灵活的内存管理。"
 ---
 
 # Markdown Support

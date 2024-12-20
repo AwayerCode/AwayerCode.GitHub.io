@@ -7,17 +7,17 @@ layout: default
 </h1>
 
 <div class="posts-container">
-  {% assign categories = site.posts | map: 'categories' | uniq | sort %}
-  {% for category in categories %}
-    {% if category != nil %}
+  {% assign category_order = "软件工程,编程语言,系统设计,工具使用" | split: "," %}
+  {% for category in category_order %}
+    {% assign posts_in_category = site.posts | where_exp: "post", "post.categories contains category" %}
+    {% assign category_size = posts_in_category | size %}
+    {% if category_size > 0 %}
       <h3>{{ category }}</h3>
       <ul>
-        {% for post in site.posts %}
-          {% if post.categories contains category %}
-            <li itemscope>
-              <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
-            </li>
-          {% endif %}
+        {% for post in posts_in_category %}
+          <li itemscope>
+            <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
+          </li>
         {% endfor %}
       </ul>
     {% endif %}
