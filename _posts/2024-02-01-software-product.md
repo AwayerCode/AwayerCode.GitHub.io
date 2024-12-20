@@ -4,7 +4,7 @@ title: "自上而下软件产品实践"
 author: "Awayer"
 categories: 软件工程
 tags: [软件工程]
-image: reflact.png
+image: software.jpg
 main_page_show: true
 summary: "自上而下软件产品实践是从商业目标出发，通过项目管理，工程实现，实施交付，最终实现商业目标的过程。"
 ---
