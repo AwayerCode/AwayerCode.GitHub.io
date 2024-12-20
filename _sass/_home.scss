@@ -3,9 +3,44 @@
 */
 
 .posts-container {
-  margin-bottom: 5rem;
+  margin-bottom: 2rem;
   padding: 0px;
   list-style: none;
+  
+  h1 {
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+    
+    a {
+      color: $dark-gray-color;
+      text-decoration: none;
+      
+      &:hover {
+        color: black;
+      }
+    }
+  }
+}
+
+.post-excerpt {
+  margin: 0.5rem 0;
+  line-height: 1.6;
+  color: #555;
+  
+  .read-more {
+    margin-left: 0.5rem;
+    
+    a {
+      color: $dark-gray-color;
+      text-decoration: none;
+      font-family: $serif-font-family;
+      font-size: 0.9rem;
+      
+      &:hover {
+        color: black;
+      }
+    }
+  }
 }
 
 /*
@@ -17,7 +52,7 @@
   max-height: 20vh;
   overflow: hidden;
   border-radius: 5px;
-  margin-bottom: 25px;
+  margin-bottom: 0.5rem;
 }
 
 .thumbnail-container img {
