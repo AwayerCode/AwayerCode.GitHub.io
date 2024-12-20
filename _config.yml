@@ -27,3 +27,6 @@ author:              'Awayer'
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+
+# 隐藏文章底部的分享按钮
+hide_post_share: true
