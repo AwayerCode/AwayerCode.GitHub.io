@@ -37,17 +37,3 @@ I focus on C++ cross-platform development and have strong interests in audio and
 - GitHub: [AwayerCode](https://github.com/AwayerCode)
 - Email: [510105194@qq.com](510105194@qq.com)
 
-
-I focus on C++ cross-platform development and have strong interests in audio and video, as well as graphics and image processing. Through this blog, I document my technical explorations and share development experiences.
-
-### Tech Stack
-- Backend: C++, Node.js
-- Audio and Video: FFmpeg, OBS
-- Graphics and Image Processing: OpenGL, Three.js
-- Cross-Platform: Windows, Linux, macOS
-
-### Contact
-- GitHub: [AwayerCode](https://github.com/AwayerCode)
-- Email: [510105194@qq.com](510105194@qq.com)
-
-
